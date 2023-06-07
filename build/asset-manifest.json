@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a13c8f52.css",
+    "main.js": "/static/js/main.fdaa2048.js",
+    "static/media/amplifier-mini.jpg": "/static/media/amplifier-mini.8905b8c11098dfff371e.jpg",
+    "static/media/amp-mm-back.jpg": "/static/media/amp-mm-back.f4a0c651977051439df1.jpg",
+    "static/media/amp-med.jpg": "/static/media/amp-med.42a1775bd7797bf6d06b.jpg",
+    "static/media/amp-b.jpg": "/static/media/amp-b.c75589443540dc691add.jpg",
+    "static/media/sbox.jpg": "/static/media/sbox.0410a434797216a62340.jpg",
+    "static/media/HomeTheatre.jpg": "/static/media/HomeTheatre.f68e717e747b425c987e.jpg",
+    "static/media/store1.jpg": "/static/media/store1.85f7528f92f6ac559ade.jpg",
+    "static/media/products.jpg": "/static/media/products.6af860af30ddb086feda.jpg",
+    "static/media/raj-b.jpg": "/static/media/raj-b.da268f3bf5e2929b3fce.jpg",
+    "static/media/wires.jpg": "/static/media/wires.788d3cbbc08886b55a78.jpg",
+    "static/media/M-works.jpg": "/static/media/M-works.f3164553c118747c891c.jpg",
+    "static/media/speaker2.jpg": "/static/media/speaker2.23b642aaebf988bbfe83.jpg",
+    "static/media/boards.jpg": "/static/media/boards.652a7d5e83e92bdaa0e3.jpg",
+    "static/media/shan.jpg": "/static/media/shan.d9eb081537d3ede8de7a.jpg",
+    "static/media/pack.jpg": "/static/media/pack.ea8ee284baf59a67b8c0.jpg",
+    "static/media/Gadgets.jpg": "/static/media/Gadgets.57e86545ba48af372526.jpg",
+    "static/media/s-back.jpg": "/static/media/s-back.29fc78492c3f91f34083.jpg",
+    "static/media/speaker-f.jpg": "/static/media/speaker-f.daa25b14454a50001872.jpg",
+    "static/media/installation.jpg": "/static/media/installation.4eec1abcb14664697336.jpg",
+    "static/media/speakers-c.jpg": "/static/media/speakers-c.db13161ed158ba460e14.jpg",
+    "static/media/backcolor.png": "/static/media/backcolor.6aa659c66fc4cf3f9e65.png",
+    "static/media/amp-r.jpg": "/static/media/amp-r.a6249dbc15789a235126.jpg",
+    "static/media/logo.svg": "/static/media/logo.130a24de89740dfb34839950c0973bfb.svg",
+    "static/media/tv.png": "/static/media/tv.35531461cff3c2bc9e89.png",
+    "static/media/tele.png": "/static/media/tele.430402b0509ca951a1ec.png",
+    "static/media/shop.svg": "/static/media/shop.29c99ee376094a7ed443be1da2ded717.svg",
+    "static/media/q.svg": "/static/media/q.a39333e89a7863ef897a32b5c3d33114.svg",
+    "index.html": "/index.html",
+    "main.a13c8f52.css.map": "/static/css/main.a13c8f52.css.map",
+    "main.fdaa2048.js.map": "/static/js/main.fdaa2048.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13c8f52.css",
+    "static/js/main.fdaa2048.js"
+  ]
+}

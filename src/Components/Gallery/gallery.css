@@ -1,0 +1,70 @@
+.o-g{
+    margin-top: 7rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+    color: white;
+    background-color: black;
+}
+
+.gallery1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.gallery1 h2{
+
+    font-weight: 600;
+    font-family: 'Nunito';
+    font-size: 3rem;
+
+
+}
+
+.gallery-a{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    flex-wrap:wrap ;
+}
+
+ .iiiii {
+    border-radius: 1rem;
+    border: none;
+    width: 20%;
+    /* height: 2%; */
+}
+
+@media(max-width: 768px) {
+
+    .o-g{
+        margin-top: 6rem;
+    }
+    
+.gallery-a img {
+    border-radius: 1rem;
+    border: none;
+    width: 50%;
+    height: 30%;
+}
+
+.gallery1 h2{
+
+    font-weight: 500;
+    font-family: 'Nunito';
+    font-size: 2.5rem;
+
+
+}
+
+}

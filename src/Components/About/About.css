@@ -1,0 +1,170 @@
+.ab-out{
+    width: 100%;
+    margin-top: 7rem;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.abt-cc{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    /* margin-top: 5rem; */
+    /* width: 100%; */
+}
+
+.ab-txt{
+    text-align: center;
+    font-size: 2.5rem;
+    padding: 2rem;
+    font-family: 'Nunito';
+}
+
+.abt-con{
+    margin-top: 4rem;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    /* justify-content: space-around; */
+    gap: .5rem;
+}
+.abt-con .abt-c-2{
+    font-family: 'Nunito';
+    text-align: center;
+    font-size: 1rem;
+    font-weight: 400;
+    width: 40rem;
+    text-align: start;
+    
+}
+
+.abt-i{
+    width: 100%;
+    height: 25rem;
+}
+
+
+.image{
+    display: none;
+}
+
+.abt-c-1{
+    
+    font-family: 'Nunito';
+    text-align: start;
+    font-size: 1.5rem;
+    font-weight: 500;
+  
+}
+
+  .fade{
+    /* Animation support for different browsers */
+      -webkit-animation-name: fade;
+      -webkit-animation-duration: 1.5s;
+      animation-name: fade;
+      animation-duration: 1.5s;
+    }
+    
+    @-webkit-keyframes fade {
+        from {opacity: .4}
+        to {opacity: 1}
+    }
+    
+    @keyframes fade {
+        from {opacity: .4}
+        to {opacity: 1}
+    } 
+    
+    @media(max-width:768px){
+        .container{
+            width: 100%;
+        }
+    }
+    
+
+    .bottom{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 2rem;
+    }
+
+    .de{
+        width: 20rem;
+    }
+
+    .d-1{
+        font-family: 'Nunito';
+        font-size: 1rem;
+        font-weight: 400;
+        margin-left: 1rem;
+        margin-top: 1rem;
+
+    }
+
+    .de-1{
+        margin-left: 1rem;
+        margin-top: 1rem;
+    }
+    
+
+@media(max-width: 768px) {
+
+    .abt-con .abt-c-1{
+        font-family: 'Nunito';
+        text-align: center;
+        font-weight: 500;
+        /* width: 15rem; */
+        font-size: 1.2rem;
+    }
+    .abt-con .abt-c-2{
+        font-family: 'Nunito';
+        text-align: justify;
+        font-weight: 400;
+        width: 23rem;
+    }
+
+    .abt-cc{
+        margin-top: 1rem;
+        flex-direction: column;
+    }
+
+
+    .abt-i{
+        width:100%;
+        height: 20rem;
+    }
+
+    .ab-txt{
+        text-align: center;
+        font-size: 2rem;
+        font-family: 'Nunito';
+        font-weight: 500;
+        /* margin-top: 10rem; */
+    
+    }
+
+    .bottom{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 2rem;
+        flex-direction: column-reverse;
+    }
+
+    .ab-out{
+        margin-top: 5rem;
+    }
+    
+
+}

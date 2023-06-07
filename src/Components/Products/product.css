@@ -1,0 +1,70 @@
+.products{
+    margin: 1.5rem 0 0 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+
+}
+.gallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.pro{
+    font-family: 'Nunito';
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.bbb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap
+}
+.amp{
+   width: 20rem;
+   height: 21rem;
+}
+
+.btnp {
+    border: none;
+    background: #000000;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 150px;
+    height: 50px;
+    color: white;
+}
+@media(max-width: 768px) {
+
+    .gallery{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 3rem;
+    }
+
+    .amp{
+        width: 15rem;
+        height: 14rem;
+     }
+     .btnp{
+        width: 12rem;
+        border: none;
+        background: #000000;
+        border-radius: 4px;
+        cursor: pointer;
+        height: 2.5rem;
+        color: white;
+        font-size: .9rem;
+     }
+
+}

@@ -1,0 +1,31 @@
+.services{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 30px;
+    margin-top: 5rem;
+}
+
+.sercar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top:2rem ;
+}
+
+.simg{
+    width: 23rem;
+    height: 20rem;
+}
+
+
+@media(max-width: 768px) {
+        
+.simg{
+    width: 19rem;
+    height: 18rem;
+}
+}
